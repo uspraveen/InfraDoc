@@ -118,7 +118,8 @@ graph TB
 5. **AI Doc Generator**
    - LLM-powered architecture documentation
    - Mermaid/PlantUML diagram generation
-   - Integration with existing Dosu knowledge base
+   - Integration with existing documentation tools and containers like Confluence.
+   
 
 #### 🧪 Real-World Example
 
@@ -137,7 +138,7 @@ graph TB
 - `architecture.md` with comprehensive service descriptions
 - `infrastructure-diagram.mmd` with visual topology
 - `service-dependencies.json` for programmatic access
-- Integration with existing Dosu documentation
+- Integration with existing documentation tools like confluence
 
 #### 🚀 Why We Need This
 
