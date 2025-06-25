@@ -4,6 +4,9 @@ InfraDoc is an AI-agent that connects to live servers via SSH, analyzes running 
 # Working-Demo: 
 https://youtu.be/4riPhf1dcAM
 
+![image](https://github.com/user-attachments/assets/ae9f7826-21ae-4b53-a98c-e73e86ac9c94)
+
+
 ## Project Files
 
 - `infradoc_core.py` – SSH connector, LLM orchestrator and discovery helpers.
